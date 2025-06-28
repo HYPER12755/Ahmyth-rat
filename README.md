@@ -19,7 +19,7 @@ The shell scripts titled `AhMyth.sh`, `AhMyth-2.sh` & ` AhMyth-parrot.sh` have b
 ## Kali & Debian installtion
 -----------------------------
 ### Auto install
-1. ```git clone https://github.com/Morsmalleo/AhMyth.git```
+1. ```git clone https://github.com/HYPER12755/Ahmyth-rat.git```
 2. ```cd AhMyth/AhMyth-Server```
 3. ```chmod +x AhMyth.sh```
 ###### line 50 of the `AhMtyh.sh` file will need to be edited for **Debian users**, just remove where it reads `kali` at the end of line 50 and replace it with your own username 
@@ -29,7 +29,7 @@ The shell scripts titled `AhMyth.sh`, `AhMyth-2.sh` & ` AhMyth-parrot.sh` have b
 6. ```npm start```
 
 ### Manual Install
-1. ```git clone https://github.com/Morsmalleo/AhMyth.git```
+1. ```git clone https://github.com/HYPER12755/Ahmyth-rat.git```
 2. ```cd AhMyth/AhMyth-Server```
 3. ```npm install && npm audit```
 ###### Add this line to your sources.list file `deb http://deb.debian.org/debian stretch main contrib non-free` and comment out any other repo with a `#`
@@ -40,7 +40,7 @@ The shell scripts titled `AhMyth.sh`, `AhMyth-2.sh` & ` AhMyth-parrot.sh` have b
 ## Parrot OS installation
 --------------------------
 ### Auto install
-1. ```git clone https://github.com/Morsmalleo/AhMyth.git```
+1. ```git clone https://github.com/HYPER12755/Ahmyth-rat.git```
 2. ```cd AhMyth/AhMyth-Server```
 3. ```npm install && npm audit```
 ###### line 50 of the `AhMtyh-parrot.sh` file might need to be edited, if your parrot username is not `user` then replace where it reads `user` at the end of line 50 with your own username
@@ -50,7 +50,7 @@ The shell scripts titled `AhMyth.sh`, `AhMyth-2.sh` & ` AhMyth-parrot.sh` have b
 6.```npm start```
 
 ### Manual Install
-1. ```git clone https://github.com/Morsmalleo/AhMyth.git```
+1. ```git clone https://github.com/HYPER12755/Ahmyth-rat.git```
 2. ```cd AhMyth/AhMyth-Server```
 3. ```npm install && npm audit```
 ###### Add this line to your parrot.list file `deb http://deb.debian.org/debian stretch main contrib non-free` and comment out any other repo with a `#`
@@ -65,7 +65,7 @@ If you are using Debian or Kali, and your **sources.list** file is located insid
 follow these steps
 
 ### Auto install
-1. ```git clone https://github.com/Morsmalleo/AhMyth.git```
+1. ```git clone https://github.com/HYPER12755/Ahmyth-rat.git```
 2. ```cd AhMyth/AhMyth-Server```
 3. ```npm install && npm audit```
 ###### line 50 of the `AhMtyh-2.sh` file will need to be edited for **Debian users**, just remove where it reads `kali` at the end of line 50 and replace it with your own username 
@@ -75,7 +75,7 @@ follow these steps
 6.```npm start```
 
 ### Manual Install
-1. ```git clone https://github.com/Morsmalleo/AhMyth.git```
+1. ```git clone https://github.com/HYPER12755/Ahmyth-rat.git```
 2. ```cd AhMyth/AhMyth-Server```
 3. ```npm install && npm audit```
 ###### Add this line to your sources.list file `deb http://deb.debian.org/debian stretch main contrib non-free` and comment out any other repo with a `#`
